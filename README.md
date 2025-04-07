@@ -1,10 +1,5 @@
-![I'm a Software Engineer (1)](https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif)
-
-
-# Olá! Eu sou Felipe Melo (<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" />)
-
-
-Olá! 👋 Meu nome é Felipe Melo, e sou um entusiasta de Tecnologia e Games. Atualmente, estou focado em me tornar um Desenvolvedor Front-End. Formado em Análise e Desenvolvimento de Sistemas (ADS) e cursando pós-graduação em Desenvolvimento Full-Stack, estou imerso no aprendizado de JavaScript e seus frameworks, como Node, VueJs e React. Estou comprometido em aprimorar minhas habilidades em Git e Github para fortalecer minha jornada profissional. Meu objetivo é viver em outros países, explorar o mundo e me destacar como um profissional de destaque na área de tecnologia. Sonho em um dia trabalhar em uma Big Tech, mas até lá, estou comprometido em progredir na minha carreira, passo a passo, no meu próprio ritmo. 💻
+Olá! 👋 Me chamo Felipe Melo.
+Sou desenvolvedor em formação, apaixonado por tecnologia e games, com foco em escrever código limpo, eficiente e de qualidade. 💻
 
 <img align="right" alt="" height="300px" src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b9526uqi8ahc5w0kr0a8ievwev7m67wxy7b08gfq34cp&ep=v1_gifs_search&rid=200w.gif&ct=g">
 
