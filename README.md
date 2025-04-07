@@ -1,7 +1,8 @@
 ## 👋 Olá! Me chamo Felipe Melo
 
-Sou desenvolvedor , apaixonado por **tecnologia** e **games**, com foco em escrever **código limpo, eficiente e de qualidade**. 💻  
-Atualmente, estou me dedicando ao aprendizado constante e ao aperfeiçoamento das minhas habilidades no meu próprio ritmo, sempre priorizando a qualidade do que desenvolvo.
+Sou desenvolvedor, apaixonado por **tecnologia** e **games**, com foco em escrever **código limpo, eficiente e de qualidade**. 💻  
+Atualmente, sigo evoluindo no meu próprio ritmo, sempre priorizando a qualidade e o aperfeiçoamento contínuo das minhas habilidades.
+
 
 <img align="right" alt="" height="300px" src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b9526uqi8ahc5w0kr0a8ievwev7m67wxy7b08gfq34cp&ep=v1_gifs_search&rid=200w.gif&ct=g">
 
