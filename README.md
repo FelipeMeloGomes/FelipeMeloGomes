@@ -33,12 +33,12 @@ Tecnologias com as quais tenho mais familiaridade:
 
 ## 📂 Projetos em destaque
 
-🔗 [**App Mobile com controle de planos**](https://github.com/FelipeMeloGomes)  
+🔗 [**App Mobile com controle de planos (em desenvolvimento)**](https://github.com/FelipeMeloGomes/FM-Dummer)  
 > Aplicativo onde usuários se cadastram, baixam um APK exclusivo e acessam funções limitadas por plano (Free ou Premium).  
 > **Stack**: React Native + TypeScript + Supabase + Expo  
 > **Destaque**: Implementação de sistema de controle de dispositivos e verificação de licença.
 
-🔗 [**FM Marketplace (em desenvolvimento)**](https://github.com/FelipeMeloGomes)  
+🔗 [**FM Marketplace**](https://github.com/FelipeMeloGomes/FM-Marketplace)  
 > Plataforma de marketplace fictícia, criada para estudar arquitetura, autenticação e gerenciamento de dados em aplicações web.  
 > **Stack**: Next.js + Supabase + TailwindCSS  
 > **Destaque**: Foco em clean code, autenticação JWT e boas práticas de design de UI.
