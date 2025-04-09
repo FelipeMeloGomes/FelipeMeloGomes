@@ -40,9 +40,9 @@ Tecnologias com as quais tenho mais familiaridade:
 > **Destaque**: Sistema robusto de verificação de licença e controle de dispositivos para impedir o compartilhamento indevido do APK.
 
 🔗 [**FM Marketplace**](https://github.com/FelipeMeloGomes/FM-Marketplace)  
-> Plataforma de marketplace fictícia, criada para estudar arquitetura, autenticação e gerenciamento de dados em aplicações web.  
-> **Stack**: Next.js + Supabase + TailwindCSS  
-> **Destaque**: Foco em clean code, autenticação JWT e boas práticas de design de UI.
+> Plataforma fictícia de marketplace de eletrônicos, desenvolvida para aprofundar conhecimentos em autenticação, pagamentos e arquitetura escalável. 
+> **Stack**: Next.js · TypeScript · Tailwind CSS · MongoDB · Prisma · Stripe · NextAuth  
+> **Destaque**: Integração com Stripe para pagamentos, API Melhor Envio para cálculo de frete, autenticação segura com NextAuth e bcrypt, além de um carrinho de compras dinâmico e uma interface moderna e responsiva.
 
 ---
 
