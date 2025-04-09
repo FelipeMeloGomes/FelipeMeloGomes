@@ -46,19 +46,19 @@ Tecnologias com as quais tenho mais familiaridade:
 
 ---
 
-## 📈 Em aprendizado
+## 📈 Em constante evolução
 
-- 🧱 **C#** e fundamentos de back-end orientado a objetos  
-- 🗃️ **SQL** e modelagem de dados com foco em sistemas reais  
-- 🌐 API REST com **Node.js** e práticas modernas de back-end  
+- 💡 Aprofundando meus estudos em **C#**, com foco em escrever código mais limpo, organizado e orientado a objetos  
+- 🧠 Trabalhando para melhorar minha **lógica de programação** e minha capacidade de **resolver problemas com clareza**  
+- 🗣️ Buscando desenvolver minha **comunicação**, tanto para explicar soluções técnicas quanto para me expressar melhor no ambiente profissional  
 
 ---
 
 ## 💡 Próximos passos
 
-- Finalizar MVP do app mobile com planos  
-- Iniciar um projeto full stack com C# e PostgreSQL  
-- Aprimorar minha comunicação e soft skills para entrevistas  
+- 🚀 Finalizar o MVP do app mobile com controle de planos e licenças  
+- 🧱 Iniciar um projeto full stack com **C#** no back-end e **PostgreSQL** como banco de dados  
+- 🗣️ Aprimorar minha **comunicação** e **soft skills**, com foco em entrevistas e ambientes colaborativos  
 
 ---
 
