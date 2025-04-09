@@ -34,7 +34,7 @@ Tecnologias com as quais tenho mais familiaridade:
 
 ## 📂 Projetos em destaque
 
-🔗 [**App Mobile com controle de planos (em desenvolvimento)**](https://github.com/FelipeMeloGomes/FM-Dummer)  
+🔗 [**FM Dumer (em desenvolvimento)**](https://github.com/FelipeMeloGomes/FM-Dummer)  
 > Aplicativo onde usuários se cadastram, baixam um APK exclusivo e acessam funções limitadas por plano (Free ou Premium).  
 > **Stack**: React Native + TypeScript + Supabase + Expo  
 > **Destaque**: Implementação de sistema de controle de dispositivos e verificação de licença.
