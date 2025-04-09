@@ -57,8 +57,8 @@ Tecnologias com as quais tenho mais familiaridade:
 ## 💡 Próximos passos
 
 - 🚀 Finalizar o MVP do app mobile com controle de planos e licenças  
-- 🧱 Iniciar um projeto full stack com **C#** no back-end e **PostgreSQL** como banco de dados  
-- 🗣️ Aprimorar minha **comunicação** e **soft skills**, com foco em entrevistas e ambientes colaborativos  
+- 🧪 Testes no front-end (unitários e integração)  
+- 🗣️ Aprimorar minha **comunicação** e **soft skills**, com foco em entrevistas e ambientes colaborativos
 
 ---
 
