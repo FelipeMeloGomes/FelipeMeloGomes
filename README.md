@@ -90,7 +90,7 @@ Tecnologias com as quais tenho mais familiaridade:
 
 ---
 
-## 🐍 Snake Contribution
+## 🟩 Contribution
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FelipeMeloGomes/FelipeMeloGomes/output/pacman-contribution-graph-dark.svg">
