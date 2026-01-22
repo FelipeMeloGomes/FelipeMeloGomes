@@ -15,8 +15,10 @@ Tecnologias com as quais tenho mais familiaridade:
 ![React](https://img.shields.io/badge/-React.js-20232A?style=for-the-badge&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/-tailwindcss-20232A?style=for-the-badge&logo=tailwindcss)
-![Supabase](https://img.shields.io/badge/-supabase-20232A?style=for-the-badge&logo=supabase)
+![PHP](https://img.shields.io/badge/-supabase-20232A?style=for-the-badge&logo=php)
+![Laravel](https://img.shields.io/badge/-supabase-20232A?style=for-the-badge&logo=laravel)
 
 ---
 
