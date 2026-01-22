@@ -18,6 +18,7 @@ Tecnologias com as quais tenho mais familiaridade:
 ![PHP](https://img.shields.io/badge/-php-20232A?style=for-the-badge&logo=php)
 ![Laravel](https://img.shields.io/badge/-laravel-20232A?style=for-the-badge&logo=laravel)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-tailwindcss-20232A?style=for-the-badge&logo=tailwindcss)
 
 ---
