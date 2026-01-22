@@ -1,16 +1,13 @@
 ## 👋 Olá! Eu sou o Felipe Melo
 
-👨‍💻 Full Stack Developer | Apaixonado por Tecnologia e Games | Estudando Back-end com PHP.
+👨‍💻 **Full Stack Developer** | Frontend forte • Back-end com PHP & Laravel • Apaixonado por tecnologia e games
 
-🚀 Minha missão é evoluir continuamente como desenvolvedor full stack, entregando soluções de qualidade com foco em boas práticas, código limpo e uma experiência sólida para o usuário.
-
-Atualmente desenvolvo projetos que unem design funcional, lógica de negócio eficiente e ferramentas modernas do ecossistema web, aplicando conceitos de performance, organização e escalabilidade.
+🚀 Desenvolvo aplicações completas com foco em **boas práticas**, **código limpo** e **experiência do usuário**, aplicando conceitos de performance, organização e escalabilidade.
 
 ---
 
 ## 💻 Stack Principal
-
-Tecnologias com as quais trabalho no dia a dia e tenho maior domínio:
+Tecnologias que utilizo no dia a dia em projetos reais.
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
@@ -30,78 +27,79 @@ Tecnologias com as quais trabalho no dia a dia e tenho maior domínio:
 ### Estilo e UI
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![ShadCN](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=radixui)
-![ChakraUI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=radixui)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)
 
 ---
 
 ## 🔧 Outras habilidades e ferramentas
-
-Tecnologias que já utilizei em projetos, estudos ou experiências práticas:
+Tecnologias que já utilizei em projetos, estudos ou experiências práticas.
 
 ### Linguagens
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ### Mobile
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react)
 
 ### Backend & Serviços
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
 ### Testes
-![Pest](https://img.shields.io/badge/Pest_PHP-5A45FF?style=for-the-badge)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Pest](https://img.shields.io/badge/Pest_PHP-5A45FF?style=flat)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
 
 ### Ferramentas & Infra
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
 ### Ambiente & IDE
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![PHPStorm](https://img.shields.io/badge/PHPStorm-000000?style=for-the-badge&logo=phpstorm)
-
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![PHPStorm](https://img.shields.io/badge/PHPStorm-000000?style=flat&logo=phpstorm)
 
 ---
 
 ## 📂 Projetos em destaque
 
-🔗 [**FM Dumer**](https://github.com/FelipeMeloGomes/FM-Dummer)  
-> Aplicativo mobile onde usuários se cadastram, fazem login e acessam o download de um APK exclusivo, com funcionalidades liberadas conforme o plano (Free ou Premium).  
-> **Stack**: React Native · TypeScript · Supabase · Expo  
-> **Destaque**: Sistema robusto de verificação de licença e controle de dispositivos para impedir o compartilhamento indevido do APK.
+### 🔹 FM Dumer
+📱 Aplicativo mobile com cadastro, login e acesso a download de APK exclusivo conforme o plano (Free ou Premium).  
+**Stack:** React Native · TypeScript · Supabase · Expo  
+**Diferencial:** Sistema de verificação de licença e controle de dispositivos para evitar compartilhamento indevido.
 
-🔗 [**FM Marketplace**](https://github.com/FelipeMeloGomes/FM-Marketplace)  
-> Plataforma fictícia de marketplace de eletrônicos, desenvolvida para aprofundar conhecimentos em autenticação, pagamentos e arquitetura escalável. 
-> **Stack**: Next.js · TypeScript · Tailwind CSS · MongoDB · Prisma · Stripe · NextAuth  
-> **Destaque**: Integração com Stripe para pagamentos, API Melhor Envio para cálculo de frete, autenticação segura com NextAuth e bcrypt, além de um carrinho de compras dinâmico e uma interface moderna e responsiva.
+🔗 https://github.com/FelipeMeloGomes/FM-Dummer
+
+---
+
+### 🔹 FM Marketplace
+🛒 Plataforma fictícia de marketplace de eletrônicos focada em autenticação, pagamentos e arquitetura escalável.  
+**Stack:** Next.js · TypeScript · Tailwind CSS · MongoDB · Prisma · Stripe · NextAuth  
+**Diferencial:** Pagamentos com Stripe, cálculo de frete (Melhor Envio), autenticação segura e carrinho dinâmico.
+
+🔗 https://github.com/FelipeMeloGomes/FM-Marketplace
 
 ---
 
 ## 📈 Em constante evolução
-
-- 🧠 Trabalhando para melhorar minha **lógica de programação** e minha capacidade de **resolver problemas com clareza**  
-- 🗣️ Buscando desenvolver minha **comunicação**, tanto para explicar soluções técnicas quanto para me expressar melhor no ambiente profissional  
+- 🧠 Aprimorando lógica de programação e resolução de problemas  
+- 🗣️ Evoluindo comunicação técnica e colaboração em equipe  
 
 ---
 
 ## 💡 Próximos passos
-
-- 🚀 Finalizar o MVP do app mobile com controle de planos e licenças  
-- 🧪 Testes no front-end (unitários e integração)  
-- 🗣️ Aprimorar minha **comunicação** e **soft skills**, com foco em entrevistas e ambientes colaborativos
+- 🚀 Finalizar MVP do app mobile com controle de planos e licenças  
+- 🧪 Expandir testes no front-end (unitários e integração)  
+- 🤝 Fortalecer soft skills e preparação para entrevistas  
 
 ---
 
-## 🌐 Me encontre em outros cantos da internet:
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6)](https://www.linkedin.com/in/felipemelog/)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6)](mailto:felipemelogomes36@gmail.com)
-[![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=vercel&logoColor=FF00F6)](https://portfoliofmg.netlify.app/)
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://github.com/FelipeMeloGomes)
+## 🌐 Me encontre por aí
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6)](https://www.linkedin.com/in/felipemelog/)
+[![E-mail](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6)](mailto:felipemelogomes36@gmail.com)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=FF00F6)](https://portfoliofmg.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://github.com/FelipeMeloGomes)
 
 ---
 
@@ -109,17 +107,17 @@ Tecnologias que já utilizei em projetos, estudos ou experiências práticas:
 
 <details>
   <summary>📈 Estatísticas</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=FelipeMeloGomes&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=FelipeMeloGomes&show_icons=true&theme=radical">
 </details>
 
 <details>
   <summary>🔥 Contribuições</summary>
-  <img src="https://streak-stats.demolab.com?user=FelipeMeloGomes&theme=radical&hide_border=true&locale=pt_BR" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com?user=FelipeMeloGomes&theme=radical&hide_border=true&locale=pt_BR">
 </details>
 
 <details>
   <summary>🧠 Linguagens mais usadas</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMeloGomes&size_weight=0.5&count_weight=0.5&theme=radical" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMeloGomes&size_weight=0.5&count_weight=0.5&theme=radical">
 </details>
 
 ---
