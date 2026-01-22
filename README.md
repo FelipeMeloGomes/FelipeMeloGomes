@@ -89,9 +89,9 @@ Tecnologias que já utilizei em projetos, estudos ou experiências práticas.
 ---
 
 ## 💡 Próximos passos
-- 🚀 Finalizar MVP do app mobile com controle de planos e licenças  
-- 🧪 Expandir testes no front-end (unitários e integração)  
-- 🤝 Fortalecer soft skills e preparação para entrevistas  
+- 📚 Aprofundar estudos em **Estruturas de Dados e Algoritmos**
+- 🧠 Resolver problemas mais complexos com clareza e eficiência
+- 🚀 Evoluir para o nível **Pleno** como desenvolvedor Full Stack 
 
 ---
 
