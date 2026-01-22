@@ -48,7 +48,6 @@ Tecnologias com as quais tenho mais familiaridade:
 
 ## 📈 Em constante evolução
 
-- 💡 Aprofundando meus estudos em **C#**, com foco em escrever código mais limpo, organizado e orientado a objetos  
 - 🧠 Trabalhando para melhorar minha **lógica de programação** e minha capacidade de **resolver problemas com clareza**  
 - 🗣️ Buscando desenvolver minha **comunicação**, tanto para explicar soluções técnicas quanto para me expressar melhor no ambiente profissional  
 
