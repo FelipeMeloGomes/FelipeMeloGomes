@@ -1,6 +1,6 @@
 ## 👋 Olá! Eu sou o Felipe Melo
 
-👨‍💻 Full Stack Developer | Apaixonado por Tecnologia e Games | Estudando Back-end com PHP#.
+👨‍💻 Full Stack Developer | Apaixonado por Tecnologia e Games | Estudando Back-end com PHP.
 
 🚀 Minha missão é evoluir continuamente como desenvolvedor full stack, entregando soluções de qualidade com foco em boas práticas, código limpo e uma experiência sólida para o usuário.
 
