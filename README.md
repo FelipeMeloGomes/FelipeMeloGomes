@@ -1,6 +1,6 @@
 ## 👋 Olá! Eu sou o Felipe Melo
 
-👨‍💻 **Full Stack Developer** | Frontend forte • Back-end com PHP & Laravel • Apaixonado por tecnologia e games
+👨‍💻 **Full Stack Developer** | Front-end • PHP & Laravel • Tecnologia & Games
 
 🚀 Desenvolvo aplicações completas com foco em **boas práticas**, **código limpo** e **experiência do usuário**, aplicando conceitos de performance, organização e escalabilidade.
 
