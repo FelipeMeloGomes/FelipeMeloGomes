@@ -62,18 +62,6 @@ Tecnologias que já utilizei em projetos, estudos ou experiências práticas.
 
 ---
 
-## 📈 Em constante evolução
-- 🧠 Aprimorando lógica de programação e resolução de problemas  
-- 🗣️ Evoluindo comunicação técnica e colaboração em equipe  
-
----
-
-## 💡 Próximos passos
-- 📚 Aprofundar estudos em **Estruturas de Dados e Algoritmos**
-- 🧠 Resolver problemas mais complexos com clareza e eficiência
-- 🚀 Evoluir para o nível **Pleno** como desenvolvedor Full Stack 
-
----
 
 ## 🌐 Me encontre por aí
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6)](https://www.linkedin.com/in/felipemelog/)
@@ -86,18 +74,8 @@ Tecnologias que já utilizei em projetos, estudos ou experiências práticas.
 ## 📊 GitHub Stats
 
 <details>
-  <summary>📈 Estatísticas</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=FelipeMeloGomes&show_icons=true&theme=radical">
-</details>
-
-<details>
   <summary>🔥 Contribuições</summary>
   <img src="https://streak-stats.demolab.com?user=FelipeMeloGomes&theme=radical&hide_border=true&locale=pt_BR">
-</details>
-
-<details>
-  <summary>🧠 Linguagens mais usadas</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMeloGomes&size_weight=0.5&count_weight=0.5&theme=radical">
 </details>
 
 ---
