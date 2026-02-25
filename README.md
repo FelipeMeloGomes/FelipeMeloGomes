@@ -1,89 +1,61 @@
-## 👋 Olá! Eu sou o Felipe Melo
+# 👋 Olá, eu sou o Felipe Melo
 
-👨‍💻 **Full Stack Developer** | Front-end • PHP & Laravel • Tecnologia & Games
+**Full Stack Developer**
 
-🚀 Desenvolvo aplicações completas com foco em **boas práticas**, **código limpo** e **experiência do usuário**, aplicando conceitos de performance, organização e escalabilidade.
-
----
-
-## 💻 Stack Principal
-Tecnologias que utilizo no dia a dia em projetos reais.
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Estilo e UI
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=radixui)
-![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)
+Construo aplicações web modernas com foco em arquitetura escalável, código limpo e boas práticas.
 
 ---
 
-## 🔧 Outras habilidades e ferramentas
-Tecnologias que já utilizei em projetos, estudos ou experiências práticas.
+## 🚀 Stack Principal
 
-### Linguagens
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+### 🖥️ Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
 
-### Mobile
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react)
+### ⚙️ Backend
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+</p>
 
-### Backend & Serviços
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+### 🗄️ Banco de Dados
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
-### Testes
-![Pest](https://img.shields.io/badge/Pest_PHP-5A45FF?style=flat)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
-
-### Ferramentas & Infra
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-
-### Ambiente & IDE
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![PHPStorm](https://img.shields.io/badge/PHPStorm-000000?style=flat&logo=phpstorm)
-
----
-
-
-## 🌐 Me encontre por aí
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6)](https://www.linkedin.com/in/felipemelog/)
-[![E-mail](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6)](mailto:felipemelogomes36@gmail.com)
-[![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=FF00F6)](https://portfoliofmg.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://github.com/FelipeMeloGomes)
+### ☁️ Infraestrutura & DevOps
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Foco Profissional
 
-<details>
-  <summary>🔥 Contribuições</summary>
-  <img src="https://streak-stats.demolab.com?user=FelipeMeloGomes&theme=radical&hide_border=true&locale=pt_BR">
-</details>
+- Desenvolvimento de sistemas completos
+- APIs REST
+- Arquitetura moderna
+- Integração com nuvem
+- Performance e organização de código
 
 ---
 
-## 🟩 Commits
+## 📬 Contato
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FelipeMeloGomes/FelipeMeloGomes/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FelipeMeloGomes/FelipeMeloGomes/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FelipeMeloGomes/FelipeMeloGomes/output/pacman-contribution-graph.svg">
-</picture>
+<p>
+  <a href="https://www.linkedin.com/in/felipemelog/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://portfoliofmg.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
