@@ -62,26 +62,6 @@ Tecnologias que já utilizei em projetos, estudos ou experiências práticas.
 
 ---
 
-## 📂 Projetos em destaque
-
-### 🔹 FM Dumer
-📱 Aplicativo mobile com cadastro, login e acesso a download de APK exclusivo conforme o plano (Free ou Premium).  
-**Stack:** React Native · TypeScript · Supabase · Expo  
-**Diferencial:** Sistema de verificação de licença e controle de dispositivos para evitar compartilhamento indevido.
-
-🔗 https://github.com/FelipeMeloGomes/FM-Dummer
-
----
-
-### 🔹 FM Marketplace
-🛒 Plataforma fictícia de marketplace de eletrônicos focada em autenticação, pagamentos e arquitetura escalável.  
-**Stack:** Next.js · TypeScript · Tailwind CSS · MongoDB · Prisma · Stripe · NextAuth  
-**Diferencial:** Pagamentos com Stripe, cálculo de frete (Melhor Envio), autenticação segura e carrinho dinâmico.
-
-🔗 https://github.com/FelipeMeloGomes/FM-Marketplace
-
----
-
 ## 📈 Em constante evolução
 - 🧠 Aprimorando lógica de programação e resolução de problemas  
 - 🗣️ Evoluindo comunicação técnica e colaboração em equipe  
@@ -122,7 +102,7 @@ Tecnologias que já utilizei em projetos, estudos ou experiências práticas.
 
 ---
 
-## 🟩 Contribution
+## 🟩 Commits
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FelipeMeloGomes/FelipeMeloGomes/output/pacman-contribution-graph-dark.svg">
