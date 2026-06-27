@@ -69,7 +69,7 @@
   <a href="https://linkedin.com/in/felipemelog" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-58A6FF?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://portfoliofmg.netlify.app" target="_blank">
+  <a href="https://fm-portfolio-six.vercel.app/pt" target="_blank">
     <img src="https://img.shields.io/badge/Portf%C3%B3lio-1F6FEB?style=flat-square&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:contato@felipemelo.dev">
