@@ -1,61 +1,84 @@
-# 👋 Olá, eu sou o Felipe Melo
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG82MmtwMnRlOXVpaXhsYTFpaG5iNjF2cGJsNDNyMGN4Y3F3ODV3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQqHo/giphy.gif" width="100%" alt="header gif" />
+</div>
 
-**Full Stack Developer**
-
-Construo aplicações web modernas com foco em arquitetura escalável, código limpo e boas práticas.
-
----
-
-## 🚀 Stack Principal
-
-### 🖥️ Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-</p>
-
-### ⚙️ Backend
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-</p>
-
-### 🗄️ Banco de Dados
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-### ☁️ Infraestrutura & DevOps
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-</p>
-
----
-
-## 📈 Foco Profissional
-
-- Desenvolvimento de sistemas completos
-- APIs REST
-- Arquitetura moderna
-- Integração com nuvem
-- Performance e organização de código
-
----
-
-## 📬 Contato
-
-<p>
-  <a href="https://www.linkedin.com/in/felipemelog/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Felipe+Melo;Full+Stack+Developer+%7C+React+%26+Next.js;PHP+%26+Laravel+%7C+TypeScript;AWS+%7C+Docker+%7C+PostgreSQL" alt="Typing SVG" />
   </a>
+</p>
 
-  <a href="https://portfoliofmg.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+---
+
+### 🚀 Sobre
+
+> **Full Stack Developer** focado em React, Next.js, PHP e Laravel  
+> ☁️ Arquitetura escalável na AWS com Docker  
+> 🎯 Código limpo, performance e boas práticas
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-58A6FF?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-58A6FF?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-58A6FF?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-58A6FF?style=flat-square&logo=javascript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-58A6FF?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend**
+
+![PHP](https://img.shields.io/badge/PHP-58A6FF?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-58A6FF?style=flat-square&logo=laravel&logoColor=white)
+
+**Banco de Dados**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-58A6FF?style=flat-square&logo=postgresql&logoColor=white)
+
+**DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-58A6FF?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-58A6FF?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-58A6FF?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-58A6FF?style=flat-square&logo=github&logoColor=white)
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/FelipeMeloGomes">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FelipeMeloGomes&show_icons=true&theme=transparent&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&border_color=30363D&hide_border=true" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMeloGomes&layout=compact&theme=transparent&title_color=58A6FF&text_color=8B949E&border_color=30363D&hide_border=true" />
   </a>
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=FelipeMeloGomes&theme=transparent&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sideNums=8B949E&dates=8B949E&border=30363D&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
+
+---
+
+### 🌐 Contato
+
+<p align="center">
+  <a href="https://linkedin.com/in/felipemelog" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-58A6FF?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://portfoliofmg.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-1F6FEB?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:contato@felipemelo.dev">
+    <img src="https://img.shields.io/badge/Email-8B949E?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⚡ <em>Sempre construindo algo</em>
 </p>
