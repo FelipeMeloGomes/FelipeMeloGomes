@@ -39,7 +39,7 @@
 
 **DevOps**
 
-![AWS](https://img.shields.io/badge/AWS-58A6FF?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMjQgMjQnPjxwYXRoIGZpbGw9JyNmZmYnIGZpbGwtcnVsZT0nZXZlbm9kZCcgZD0nTTEyIDNMMyAyMGg0bDItNGg2bDIgNGg0TDEyIDN6IE0xMCAxNGwxLTQgMSA0aC0yeicvPjxwYXRoIGZpbGw9JyNmZmYnIGQ9J00zIDIxYzUtNCAxMy00IDE4IDBsLTIgMmMtNC0zLTEwLTMtMTQgMGwtMi0yeicvPjwvc3ZnPg==)
+![AWS](https://img.shields.io/badge/AWS-58A6FF?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMTIgM0wzIDIwaDRsMi00aDZsMiA0aDRMMTIgM3ogTTEwIDE0bDEtNCAxIDRoLTJ6Ii8+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTMgMjFjNS00IDEzLTQgMTggMGwtMiAyYy00LTMtMTAtMy0xNCAwbC0yLTJ6Ii8+PC9zdmc+)
 ![Docker](https://img.shields.io/badge/Docker-58A6FF?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-58A6FF?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-58A6FF?style=flat-square&logo=github&logoColor=white)
