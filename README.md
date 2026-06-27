@@ -12,7 +12,7 @@
 
 ### 🚀 Sobre
 
-> 🚀 Full Stack Developer @ NúcleoGov • React • Next.js • TypeScript  
+> 🚀 Full Stack Developer • React • Next.js • TypeScript  
 > ⚡ PHP/Laravel • PostgreSQL • AWS • Docker • Testes (Pest)  
 > ☁️ Python • GitHub Actions • Refatoração • Performance • Infraestrutura
 
