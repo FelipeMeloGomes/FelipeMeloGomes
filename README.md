@@ -12,9 +12,9 @@
 
 ### 🚀 Sobre
 
-> 🚀 Full Stack Developer • React • Next.js • PHP • Laravel  
-> ⚡ IA & AI Agents • Refatoração • Performance • Entregas rápidas  
-> ☁️ AWS • Docker • Linux • Escalabilidade • Código limpo
+> 🚀 Full Stack Developer @ NúcleoGov • React • Next.js • TypeScript  
+> ⚡ PHP/Laravel • PostgreSQL • AWS • Docker • Testes (Pest)  
+> ☁️ Python • GitHub Actions • Refatoração • Performance • Infraestrutura
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="gradient line" />
 
@@ -27,15 +27,19 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-58A6FF?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-58A6FF?style=flat-square&logo=javascript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-58A6FF?style=flat-square&logo=tailwindcss&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled_Components-58A6FF?style=flat-square&logo=styledcomponents&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-58A6FF?style=flat-square&logo=react&logoColor=white)
 
 **Backend**
 
 ![PHP](https://img.shields.io/badge/PHP-58A6FF?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-58A6FF?style=flat-square&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-58A6FF?style=flat-square&logo=python&logoColor=white)
 
 **Banco de Dados**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-58A6FF?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-58A6FF?style=flat-square&logo=supabase&logoColor=white)
 
 **DevOps**
 
@@ -44,6 +48,7 @@
 ![Git](https://img.shields.io/badge/Git-58A6FF?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-58A6FF?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-58A6FF?style=flat-square&logo=linux&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-58A6FF?style=flat-square&logo=githubactions&logoColor=white)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="separator" />
 
