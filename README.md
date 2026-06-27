@@ -39,7 +39,7 @@
 
 **DevOps**
 
-![AWS](https://img.shields.io/badge/AWS-58A6FF?style=flat-square&logo=data:image/svg%2bxml;charset=utf-8,%3Csvg%20viewBox='0%200%2024%2024'%3E%3Cpath%20fill='%23fff'%20fill-rule='evenodd'%20d='M12%203L3%2020h4l2-4h6l2%204h4L12%203z%20M10%2014l1-4%201%204h-2z'/%3E%3Cpath%20fill='%23fff'%20d='M3%2021c5-4%2013-4%2018%200l-2%202c-4-3-10-3-14%200l-2-2z'/%3E%3C/svg%3E&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-58A6FF?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMjQgMjQnPjxwYXRoIGZpbGw9JyNmZmYnIGZpbGwtcnVsZT0nZXZlbm9kZCcgZD0nTTEyIDNMMyAyMGg0bDItNGg2bDIgNGg0TDEyIDN6IE0xMCAxNGwxLTQgMSA0aC0yeicvPjxwYXRoIGZpbGw9JyNmZmYnIGQ9J00zIDIxYzUtNCAxMy00IDE4IDBsLTIgMmMtNC0zLTEwLTMtMTQgMGwtMi0yeicvPjwvc3ZnPg==)
 ![Docker](https://img.shields.io/badge/Docker-58A6FF?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-58A6FF?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-58A6FF?style=flat-square&logo=github&logoColor=white)
