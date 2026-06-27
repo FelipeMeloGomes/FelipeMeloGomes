@@ -45,7 +45,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-58A6FF?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-58A6FF?style=flat-square&logo=linux&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/FelipeMeloGomes/FelipeMeloGomes/main/images/fading-line.gif" width="100%" alt="fading line" />
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="separator" />
 
 ### 📊 GitHub Analytics
 
