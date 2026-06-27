@@ -90,5 +90,5 @@
 ---
 
 <p align="center">
-  ⚡ <em>Sempre construindo algo</em>
+  ⚡ <em>Transformando ideias em soluções escaláveis</em>
 </p>
