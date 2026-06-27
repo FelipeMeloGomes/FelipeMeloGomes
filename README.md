@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG82MmtwMnRlOXVpaXhsYTFpaG5iNjF2cGJsNDNyMGN4Y3F3ODV3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQqHo/giphy.gif" width="100%" alt="header gif" />
+  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="100%" alt="night coding lofi" />
 </div>
 
 <p align="center">
@@ -16,7 +16,7 @@
 > ☁️ Arquitetura escalável na AWS com Docker  
 > 🎯 Código limpo, performance e boas práticas
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="gradient line" />
 
 ### 🛠️ Tech Stack
 
@@ -44,7 +44,7 @@
 ![Git](https://img.shields.io/badge/Git-58A6FF?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-58A6FF?style=flat-square&logo=github&logoColor=white)
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="fading line" />
 
 ### 📊 GitHub Analytics
 
@@ -61,7 +61,7 @@
   </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="gradient line" />
 
 ### 🌐 Contato
 
