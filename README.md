@@ -39,7 +39,7 @@
 
 **DevOps**
 
-![AWS](https://img.shields.io/badge/AWS-58A6FF?style=flat-square&logo=data:image/svg%2bxml;charset=utf-8,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%3E%3Cpath%20fill='%23fff'%20d='M16.6%209.6c-.8%200-1.6.3-2.2.9C13.2%208.6%2010.3%208%208%209.4c-1%20.5-1.8%201.4-2.2%202.5-1.9.3-3.4%202.1-3.3%204%200%202.2%201.7%204%203.9%204h9.6c2.5%200%204.5-2%204.5-4.5%200-2.3-1.7-4.2-3.9-4.5V9.6z'/%3E%3C/svg%3E&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-58A6FF?style=flat-square&logo=data:image/svg%2bxml;charset=utf-8,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%3E%3Ctext%20x='12'%20y='17'%20text-anchor='middle'%20font-family='Arial,%20sans-serif'%20font-size='14'%20font-weight='bold'%20fill='%23fff'%3EAWS%3C/text%3E%3C/svg%3E&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-58A6FF?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-58A6FF?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-58A6FF?style=flat-square&logo=github&logoColor=white)
