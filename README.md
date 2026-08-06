@@ -56,11 +56,11 @@
 
 | Projeto | Descrição | Stack | Link |
 |:---:|:---|:---:|:---:|
-| **FM-Optimization** | FM Optimize — app desktop para otimização do Windows com 41 scripts de performance, limpeza, rede e mais | Electron · React · TypeScript | [GitHub](https://github.com/FelipeMeloGomes/FM-Optimization) |
-| **FM-Portfolio** | Meu portfólio pessoal | React · TypeScript | [GitHub](https://github.com/FelipeMeloGomes/FM-Portfolio) |
+| **FM_Optimization** | FM Optimize — app desktop para otimização do Windows com 41 scripts de performance, limpeza, rede e mais | Electron · React · TypeScript | [GitHub](https://github.com/FelipeMeloGomes/FM_Optimization) |
+| **FM_Portfolio** | Meu portfólio pessoal | React · TypeScript | [GitHub](https://github.com/FelipeMeloGomes/FM_Portfolio) |
 | **FM_Ecommerce** | Loja virtual completa | React · TypeScript | [GitHub](https://github.com/FelipeMeloGomes/FM_Ecommerce) |
-| **FM-Construct** | Sistema web para gerenciamento de construção civil | React · TypeScript | [GitHub](https://github.com/FelipeMeloGomes/FM-Construct) |
-| **FM-Blog** | Blog desenvolvido em React | React · TypeScript | [GitHub](https://github.com/FelipeMeloGomes/FM-Blog) |
+| **FM_Construct** | Sistema web para gerenciamento de construção civil | React · TypeScript | [GitHub](https://github.com/FelipeMeloGomes/FM_Construct) |
+| **FM_Blog** | Blog desenvolvido em React | React · TypeScript | [GitHub](https://github.com/FelipeMeloGomes/FM_Blog) |
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="separator" />
 
