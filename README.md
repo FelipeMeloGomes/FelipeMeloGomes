@@ -52,6 +52,18 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="separator" />
 
+### 📌 Projetos em destaque
+
+| Projeto | Descrição | Stack | Link |
+|:---:|:---|:---:|:---:|
+| **FM-Optimization** | FM Optimize — app desktop para otimização do Windows com 41 scripts de performance, limpeza, rede e mais | Electron · React · TypeScript | [GitHub](https://github.com/FelipeMeloGomes/FM-Optimization) |
+| **FM-Portfolio** | Meu portfólio pessoal | React · TypeScript | [GitHub](https://github.com/FelipeMeloGomes/FM-Portfolio) |
+| **FM_Ecommerce** | Loja virtual completa | React · TypeScript | [GitHub](https://github.com/FelipeMeloGomes/FM_Ecommerce) |
+| **FM-Construct** | Sistema web para gerenciamento de construção civil | React · TypeScript | [GitHub](https://github.com/FelipeMeloGomes/FM-Construct) |
+| **FM-Blog** | Blog desenvolvido em React | React · TypeScript | [GitHub](https://github.com/FelipeMeloGomes/FM-Blog) |
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="separator" />
+
 ### 📊 GitHub Analytics
 
 <p align="center">
@@ -65,6 +77,14 @@
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=FelipeMeloGomes&theme=transparent&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sideNums=8B949E&dates=8B949E&border=30363D&hide_border=true" alt="GitHub Streak" />
   </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="gradient line" />
+
+### 🕹️ Contribuições
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FelipeMeloGomes/FelipeMeloGomes/output/pacman-contribution-graph.svg" width="100%" alt="Pacman contribution graph" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="gradient line" />
