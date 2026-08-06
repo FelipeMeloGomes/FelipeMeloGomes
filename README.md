@@ -68,8 +68,8 @@
 
 <p align="center">
   <a href="https://github.com/FelipeMeloGomes">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FelipeMeloGomes&show_icons=true&theme=transparent&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&border_color=30363D&hide_border=true" />
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMeloGomes&layout=compact&theme=transparent&title_color=58A6FF&text_color=8B949E&border_color=30363D&hide_border=true" />
+    <img height="150em" src="profile/stats.svg" />
+    <img height="150em" src="profile/top-langs.svg" />
   </a>
 </p>
 
