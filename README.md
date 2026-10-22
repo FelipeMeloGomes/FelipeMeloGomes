@@ -1,114 +1,82 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="100%" alt="night coding lofi" />
+
+<p><img src="assets/name.svg" alt="Felipe Melo" height="44" /></p>
+
+<p><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&height=32&lines=Full+Stack+Developer;React+%26+Next.js+%7C+PHP+%26+Laravel;AWS+%7C+Docker+%7C+PostgreSQL">
+  <img height="32" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=620&height=32&lines=Full+Stack+Developer;React+%26+Next.js+%7C+PHP+%26+Laravel;AWS+%7C+Docker+%7C+PostgreSQL" alt="Full Stack Developer — React &amp; Next.js | PHP &amp; Laravel" />
+</picture></p>
+
+<img src="assets/divider.svg" width="100%" height="3" alt="" />
+
 </div>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Felipe+Melo;Full+Stack+Developer+%7C+React+%26+Next.js;PHP+%26+Laravel+%7C+TypeScript;AWS+%7C+Docker+%7C+PostgreSQL" alt="Typing SVG" />
-  </a>
-</p>
+### <img src="assets/titles/sobre.svg" alt="Sobre" height="30" />
 
----
+🚀 Full Stack Developer • React • Next.js • TypeScript<br>
+⚡ PHP/Laravel • PostgreSQL • AWS • Docker • Testes (Pest)<br>
+☁️ Python • GitHub Actions • Refatoração • Performance • Infraestrutura
 
-### 🚀 Sobre
+### <img src="assets/titles/stack.svg" alt="Stack" height="30" />
 
-> 🚀 Full Stack Developer • React • Next.js • TypeScript  
-> ⚡ PHP/Laravel • PostgreSQL • AWS • Docker • Testes (Pest)  
-> ☁️ Python • GitHub Actions • Refatoração • Performance • Infraestrutura
+**Front**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="gradient line" />
+![React](https://img.shields.io/badge/React-30363D?style=flat-square&labelColor=21262D&logo=react&logoColor=58A6FF)
+![Next.js](https://img.shields.io/badge/Next.js-30363D?style=flat-square&labelColor=21262D&logo=nextdotjs&logoColor=58A6FF)
+![TypeScript](https://img.shields.io/badge/TypeScript-30363D?style=flat-square&labelColor=21262D&logo=typescript&logoColor=58A6FF)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-30363D?style=flat-square&labelColor=21262D&logo=tailwindcss&logoColor=58A6FF)
 
-### 🛠️ Tech Stack
+**Back**
 
-**Frontend**
+![PHP](https://img.shields.io/badge/PHP-30363D?style=flat-square&labelColor=21262D&logo=php&logoColor=58A6FF)
+![Laravel](https://img.shields.io/badge/Laravel-30363D?style=flat-square&labelColor=21262D&logo=laravel&logoColor=58A6FF)
+![Python](https://img.shields.io/badge/Python-30363D?style=flat-square&labelColor=21262D&logo=python&logoColor=58A6FF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-30363D?style=flat-square&labelColor=21262D&logo=postgresql&logoColor=58A6FF)
 
-![React](https://img.shields.io/badge/React-58A6FF?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-58A6FF?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-58A6FF?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-58A6FF?style=flat-square&logo=javascript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-58A6FF?style=flat-square&logo=tailwindcss&logoColor=white)
-![Styled Components](https://img.shields.io/badge/Styled_Components-58A6FF?style=flat-square&logo=styledcomponents&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-58A6FF?style=flat-square&logo=react&logoColor=white)
+**Infra**
 
-**Backend**
+![AWS](https://img.shields.io/badge/AWS-30363D?style=flat-square&labelColor=21262D&logo=amazonwebservices&logoColor=58A6FF)
+![Docker](https://img.shields.io/badge/Docker-30363D?style=flat-square&labelColor=21262D&logo=docker&logoColor=58A6FF)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-30363D?style=flat-square&labelColor=21262D&logo=githubactions&logoColor=58A6FF)
 
-![PHP](https://img.shields.io/badge/PHP-58A6FF?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-58A6FF?style=flat-square&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-58A6FF?style=flat-square&logo=python&logoColor=white)
+### <img src="assets/titles/projetos.svg" alt="Projetos em destaque" height="30" />
 
-**Banco de Dados**
+| Projeto | Descrição | Links |
+| :--- | :--- | :--- |
+| **FM_Optimization** | App desktop com 41 scripts de otimização do Windows<br><sub>Electron · React · TypeScript</sub> | [código](https://github.com/FelipeMeloGomes/FM_Optimization) |
+| **FM_Portfolio** | Portfólio pessoal<br><sub>React · TypeScript</sub> | [demo](https://fm-portfolio-six.vercel.app/pt)&nbsp;·&nbsp;[código](https://github.com/FelipeMeloGomes/FM_Portfolio) |
+| **FM_Ecommerce** | E-commerce com Stripe, CMS e painel admin<br><sub>Next.js · TypeScript · Stripe</sub> | [demo](https://fm-ecommerce-jade.vercel.app/)&nbsp;·&nbsp;[código](https://github.com/FelipeMeloGomes/FM_Ecommerce) |
+| **FM_Construct** | Gestão de obras na construção civil<br><sub>React · TypeScript</sub> | [código](https://github.com/FelipeMeloGomes/FM_Construct) |
+| **FM_Blog** | Blog com autenticação e comentários em tempo real<br><sub>React · Firebase</sub> | [demo](https://fm-blog.vercel.app/)&nbsp;·&nbsp;[código](https://github.com/FelipeMeloGomes/FM_Blog) |
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-58A6FF?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-58A6FF?style=flat-square&logo=supabase&logoColor=white)
+<p align="center"><sub><a href="https://github.com/FelipeMeloGomes?tab=repositories">ver todos os repositórios →</a></sub></p>
 
-**DevOps**
+### <img src="assets/titles/github.svg" alt="GitHub" height="30" />
 
-![AWS](https://img.shields.io/badge/AWS-58A6FF?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMTIgM0wzIDIwaDRsMi00aDZsMiA0aDRMMTIgM3ogTTEwIDE0bDEtNCAxIDRoLTJ6Ii8+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTMgMjFjNS00IDEzLTQgMTggMGwtMiAyYy00LTMtMTAtMy0xNCAwbC0yLTJ6Ii8+PC9zdmc+)
-![Docker](https://img.shields.io/badge/Docker-58A6FF?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-58A6FF?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-58A6FF?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-58A6FF?style=flat-square&logo=linux&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-58A6FF?style=flat-square&logo=githubactions&logoColor=white)
+<div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="separator" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=FelipeMeloGomes&show_icons=true&hide_border=true&theme=transparent&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&rank_icon=github&locale=pt-br&hide=contribs" alt="GitHub stats" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMeloGomes&layout=compact&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E&langs_count=6&locale=pt-br" alt="Top languages" />
 
-### 📌 Projetos em destaque
+</div>
 
-| Projeto | Descrição | Stack | Link |
-|:---:|:---|:---:|:---:|
-| **FM_Optimization** | FM Optimize — app desktop para otimização do Windows com 41 scripts de performance, limpeza, rede e mais | Electron · React · TypeScript | [GitHub](https://github.com/FelipeMeloGomes/FM_Optimization) |
-| **FM_Portfolio** | Meu portfólio pessoal | React · TypeScript | [GitHub](https://github.com/FelipeMeloGomes/FM_Portfolio) |
-| **FM_Ecommerce** | Loja virtual completa | React · TypeScript | [GitHub](https://github.com/FelipeMeloGomes/FM_Ecommerce) |
-| **FM_Construct** | Sistema web para gerenciamento de construção civil | React · TypeScript | [GitHub](https://github.com/FelipeMeloGomes/FM_Construct) |
-| **FM_Blog** | Blog desenvolvido em React | React · TypeScript | [GitHub](https://github.com/FelipeMeloGomes/FM_Blog) |
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="separator" />
-
-### 📊 GitHub Analytics
+### <img src="assets/titles/contribuicoes.svg" alt="Contribuições" height="30" />
 
 <p align="center">
-  <a href="https://github.com/FelipeMeloGomes">
-    <img height="150em" src="profile/stats.svg" />
-    <img height="150em" src="profile/top-langs.svg" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FelipeMeloGomes/FelipeMeloGomes/output/pacman-contribution-graph-dark.svg">
+    <img src="https://raw.githubusercontent.com/FelipeMeloGomes/FelipeMeloGomes/output/pacman-contribution-graph.svg" width="100%" alt="Pacman contribution graph" />
+  </picture>
 </p>
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=FelipeMeloGomes&theme=transparent&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sideNums=8B949E&dates=8B949E&border=30363D&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
+### <img src="assets/titles/contato.svg" alt="Contato" height="30" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="gradient line" />
+<div align="center">
 
-### 🕹️ Contribuições
+[LinkedIn](https://linkedin.com/in/felipemelog) · [Portfólio](https://fm-portfolio-six.vercel.app/pt) · [Email](mailto:contato@felipemelo.dev)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/FelipeMeloGomes/FelipeMeloGomes/output/pacman-contribution-graph.svg" width="100%" alt="Pacman contribution graph" />
-</p>
+<img src="assets/divider.svg" width="100%" height="3" alt="" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="gradient line" />
+<sub>⚡ Transformando ideias em soluções escaláveis</sub>
 
-### 🌐 Contato
-
-<p align="center">
-  <em>React • Next.js • TypeScript • PHP/Laravel • PostgreSQL • AWS • Docker • Python</em>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/felipemelog" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-58A6FF?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NWMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=&logoColor=white" />
-  </a>
-  <a href="https://fm-portfolio-six.vercel.app/pt" target="_blank">
-    <img src="https://img.shields.io/badge/Portf%C3%B3lio-1F6FEB?style=flat-square&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:contato@felipemelo.dev">
-    <img src="https://img.shields.io/badge/Email-8B949E?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  ⚡ <em>Transformando ideias em soluções escaláveis</em>
-</p>
+</div>

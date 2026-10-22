@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="3" viewBox="0 0 1200 3" preserveAspectRatio="none" role="presentation">
+  <defs>
+    <linearGradient id="pulse" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2F81F7" stop-opacity="0"/>
+      <stop offset="0.35" stop-color="#2F81F7"/>
+      <stop offset="0.6" stop-color="#A371F7"/>
+      <stop offset="0.85" stop-color="#39C5CF"/>
+      <stop offset="1" stop-color="#39C5CF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="3" fill="#8B949E" opacity="0.35"/>
+  <rect y="0" width="320" height="3" fill="url(#pulse)">
+    <animate attributeName="x" from="-320" to="1200" dur="9s" repeatCount="indefinite"/>
+  </rect>
+</svg>
